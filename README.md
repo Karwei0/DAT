@@ -140,4 +140,3 @@ This project builds on the baseline and datasets provided by
 [OmniAnomaly](https://github.com/NetManAIOps/OmniAnomaly) for their
 implementations and resources. We are also grateful to all the models
 mentioned in this work.
-# DAT
